@@ -4,9 +4,10 @@ Here Some tasks connected with matrixes.
 
 I hope it's not a shit)
 
-1)Thomas algorithm
+1)Thomas algorithm;
 
-2)Thomas algorithm + Sherman-Morrison formula
+2)Thomas algorithm + Sherman-Morrison formula;
 
-3)Gauss elimination + some norms of output vectors.
+3)Gauss elimination + some norms of output vectors;
 
+4)Conjugate gradient method vs Gauss-Seidel algorithms.
